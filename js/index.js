@@ -19,7 +19,6 @@ function solveQuadraticEq(a, b, c){
         return 'No Roots';
     }
     
-    
 
 
 function calcDiscr(a, b, c){
